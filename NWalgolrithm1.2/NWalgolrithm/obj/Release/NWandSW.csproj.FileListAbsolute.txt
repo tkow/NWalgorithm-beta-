@@ -1,0 +1,12 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\bin\Release\NWalgolrithm.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\bin\Release\NWalgolrithm.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\bin\Release\NWalgolrithm.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWandSW.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWandSW.Form1.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWandSW.Properties.Resources.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWandSW.csproj.GenerateResource.Cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWalgolrithm.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWalgolrithm.pdb
+C:\Users\豪雄\Documents\GitHub\NWalgorithm-beta-\NWalgolrithm1.2\NWalgolrithm\bin\Release\NWalgolrithm.exe.config
+C:\Users\豪雄\Documents\GitHub\NWalgorithm-beta-\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWalgolrithm.exe
+C:\Users\豪雄\Documents\GitHub\NWalgorithm-beta-\NWalgolrithm1.2\NWalgolrithm\obj\Release\NWalgolrithm.pdb

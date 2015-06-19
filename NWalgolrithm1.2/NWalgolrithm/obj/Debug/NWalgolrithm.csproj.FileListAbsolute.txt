@@ -1,0 +1,12 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\bin\Debug\NWalgolrithm.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\obj\Debug\NWalgolrithm.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\obj\Debug\NWalgolrithm.Form1.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\obj\Debug\NWalgolrithm.Properties.Resources.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\obj\Debug\NWalgolrithm.csproj.GenerateResource.Cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\bin\Debug\NWalgolrithm.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\bin\Debug\NWalgolrithm.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\obj\Debug\NWalgolrithm.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm\NWalgolrithm\obj\Debug\NWalgolrithm.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.1\NWalgolrithm\bin\Debug\NWalgolrithm.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.1\NWalgolrithm\obj\Debug\NWalgolrithm.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\NWalgolrithm1.1\NWalgolrithm\obj\Debug\NWalgolrithm.pdb
